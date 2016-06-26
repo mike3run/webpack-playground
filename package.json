@@ -21,6 +21,7 @@
   "homepage": "https://github.com/mike3run/webpack-playground#readme",
   "devDependencies": {
     "css-loader": "^0.23.1",
+    "npm-install-webpack-plugin": "^4.0.3",
     "style-loader": "^0.13.1",
     "webpack": "^1.13.1",
     "webpack-dev-server": "^1.14.1",
