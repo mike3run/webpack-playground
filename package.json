@@ -1,0 +1,25 @@
+{
+  "name": "webpack-playground",
+  "version": "1.0.0",
+  "description": "intentando cosas webpacl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mike3run/webpack-playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mike3run/webpack-playground/issues"
+  },
+  "homepage": "https://github.com/mike3run/webpack-playground#readme",
+  "devDependencies": {
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1"
+  }
+}
